@@ -25,7 +25,7 @@ def check_single_url():
     result = detect_phishing(url)
 
     # Print the result
-    print("\n--- RESULT ---")
+    print("\n--- scan RESULT ---")
     print("URL:", result["url"])
     print("Domain:", result["domain"])
     print("Score:", result["score"])
