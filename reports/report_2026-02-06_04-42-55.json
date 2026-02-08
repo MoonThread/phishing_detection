@@ -1,0 +1,10 @@
+{
+    "url": "\u0016",
+    "domain": "\u0016",
+    "score": 2,
+    "is_phishing": false,
+    "confidence": "LOW",
+    "triggered_rules": [
+        "Not using HTTPS (+2)"
+    ]
+}
